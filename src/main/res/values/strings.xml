@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyInvestmentApp</string>
+    <string name="profile_name">Abhinav Kumar Santoshi</string>
+    <string name="view_profile_button">View Profile</string>
+    <string name="contact_button">Contact</string>
+    <string name="listViewText">listText</string>
+    <string name="TextViewItem">TextView</string>
+    <string name="logoImage">logoImage</string>
+</resources>
